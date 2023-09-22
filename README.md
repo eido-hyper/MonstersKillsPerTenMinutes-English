@@ -1,7 +1,9 @@
-# 十分鐘怪物擊殺數
+## Rate Tracker: Monster Kills per 10 minutes
 
-工具網址：https://wj654cj86.github.io/MonstersKillsPerTenMinutes/
+Link to original : https://wj654cj86.github.io/MonstersKillsPerTenMinutes/
 
-資料參考來源：https://forum.gamer.com.tw/C.php?bsn=7650&snA=995533&tnum=874
+Link to data source: https://forum.gamer.com.tw/C.php?bsn=7650&snA=995533&tnum=874
 
-若想要新增你的測試資料請在資料參考來源留言，並且丟上戰鬥分析，戰鬥分析上的戰鬥時間和擊殺怪物要拍清楚，建議戰鬥分析10分鐘，如果有影片更好，且有其他附加條件也要補上。
+If you would like your test data to be added, please leave a message in the data source posting, including a Battle Analysis. The provided Battle Analysis must clearly show the total time, and monsters killed and at minimum be of 10 minutes. 
+**Posting must include additional details such as conditional buffs, potentials, or skills. **
+*It is recommended to be a showcase of your full cooldown cycle/skill rotation, and to include a video of the performed test.*
